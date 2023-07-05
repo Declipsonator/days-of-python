@@ -4,3 +4,4 @@ A series of python projects that I did to stay sharp. Feel free to give them a t
 ## Projects
 - <b>Day 1:</b> Implement a spell checker using a dictionary and Levenshtein distance. <a href="/Day1">View</a>
 - <b>Day 2:</b> Develop a command line tool for converting csv files to json files <a href="/Day2">View</a>
+- <b>Day 3:</b> Build a program that calculates the distance between two locations using their latitude and longitude coordinates. <a href="/Day3">View</a>
