@@ -6,3 +6,4 @@ A series of python projects that I did to stay sharp. Feel free to give them a t
 - <b>Day 2:</b> Develop a command line tool for converting csv files to json files <a href="/Day2">View</a>
 - <b>Day 3:</b> Build a program that calculates the distance between two locations using their latitude and longitude coordinates. <a href="/Day3">View</a>
 - <b>Day 4:</b> Make a program for scraping reddit posts without using the reddit api <a href="/Day4">View</a>
+- <b>Day 5:</b> Make a text editing program with the ability to open and close files <a href="/Day5">View</a>
