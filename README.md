@@ -9,3 +9,4 @@ A series of python projects that I did to stay sharp. Feel free to give them a t
 - <b>Day 5:</b> Make a text editing program with the ability to open and close files <a href="/Day5">View</a>
 - <b>Day 6:</b> Generate a maze using a maze generating algorithm, then display the maze and let the user solve it <a href="/Day6">View</a>
 - <b>Day 7:</b> Take a string input and return that string in morse code <a href="/Day7">View</a>
+- <b>Day 8:</b> Implement Day 2 as an api <a href="/Day8">View</a>
