@@ -36,6 +36,7 @@ def download_messages(token, channel_id, after_message, limit=100, author_id=Non
         else:
             print(f"Error: {response.status_code}")
             break
+    return messages 
 
 
 print(download_messages(discord_token, discord_channel_id, after_message_id))
