@@ -11,3 +11,4 @@ A series of python projects that I did to stay sharp. Feel free to give them a t
 - <b>Day 7:</b> Take a string input and return that string in morse code <a href="/Day7">View</a>
 - <b>Day 8:</b> Implement Day 2 as an api <a href="/Day8">View</a>
 - <b>Day 9:</b> Make a discord bot for downloading all the messages from a discord channel<a href="/Day9">View</a>
+- <b>Day 10:</b> Create a simple weather application<a href="/Day10">View</a>
